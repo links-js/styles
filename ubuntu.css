@@ -1,0 +1,7 @@
+@import url(https://maxcdn.bootstrapcdn.com/bootswatch/3.3.6/united/bootstrap.min.css);
+.tt-cursor, .tt-cursor .url, .tt-cursor .type i, .tt-cursor .tags,
+.tt-suggestion:hover, .tt-suggestion:hover .url, .tt-suggestion:hover .type i, .tt-suggestion:hover .tags
+{
+  color: #fff !important;
+  background-color: #DD4814 !important;
+}
